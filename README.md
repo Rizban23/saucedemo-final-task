@@ -24,8 +24,9 @@ https://www.saucedemo.com/
 
  Project Structure
 test/
+- pageobjects/ 
  - specs/          # Test files
- - pageobjects/    # Page Object classes
+    # Page Object classes
 
  Test Scenarios
  
